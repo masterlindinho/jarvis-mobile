@@ -1,0 +1,9 @@
+JARVIS MOBILE - projeto Android
+
+Como gerar o aplicativo (.apk) sem instalar nada:
+1. Crie uma conta gratuita em github.com e um repositorio novo (pode ser privado).
+2. Arraste TODO o conteudo desta pasta (inclusive as pastas "app" e ".github") para o repositorio:
+   Add file > Upload files > Commit changes.
+3. Abra a aba "Actions" e espere o "Gerar APK do Jarvis" ficar verde (uns 5 minutos).
+4. Abra a aba "Releases" (lado direito da pagina do repositorio) pelo CELULAR e baixe o Jarvis.apk.
+5. Instale (permita "instalar apps desconhecidos" se o Android pedir).
